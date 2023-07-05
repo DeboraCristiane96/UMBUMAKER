@@ -1,0 +1,61 @@
+
+
+  .container-login{
+    display: flex;
+    
+  }
+ 
+
+  .container-login Button{
+   margin-top: 30px;
+   left: 150px;
+   background-color: #296010;
+   color: #fff;
+  
+  }
+
+  
+ h2{
+    color:  #207c4e;
+    margin-left: 500px;
+    margin: 2vw 2vh; 
+    padding: 2vw 2vh; 
+}
+.container-login label{
+  color: #1DB86B;
+  font-family: Georgia;
+  flex-direction: column;
+
+  margin: 1vw; 
+  padding: 1vw; 
+}
+.container-login .input{
+  display: flex;
+  flex-direction: column;
+  margin: 2vw; 
+  padding: 2vw; 
+  width: 50vh;
+  height: 40px;
+}
+
+
+.left-login {
+  display: flex;
+  background-color: #296010;
+  width: 50vw;
+  height: 100vh;
+  
+ 
+}
+
+.left-login .imagem img{
+  margin-top: 30vh;
+  width: 50vw;
+  height: 40vh; 
+  
+}
+
+
+
+  
+

@@ -1,0 +1,44 @@
+
+*{
+   
+    margin: 0;
+    padding: 0;
+}
+
+.menu{
+    width: 30vw;
+    height: 100vh;
+    background-color: #296010;
+    position: fixed;
+    top: 0;
+    
+}
+
+.logo{
+    width: 30vw;
+    height: 20vh;    
+    margin: auto;
+    background-color: #214d0d
+    ;
+    
+  }
+
+.butoes #bt{       
+    color: #1DB86B;
+    width: 30vw;
+    text-align: left;
+    padding-left: 5vw;
+}
+
+.butoes #bt:focus,.butoes #bt:hover { 
+    background-color: rgb(239, 243, 240);
+    border-radius: 0;
+    border-color: none;
+}
+
+.logo img{
+    width: 430px;
+    height: 80px;
+    margin-top: 5px;
+    
+}
